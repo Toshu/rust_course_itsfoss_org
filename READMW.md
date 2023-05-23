@@ -1,0 +1,1 @@
+# repo to complet the rust tutorial "Rust Basics Series" at itsfoss.org
