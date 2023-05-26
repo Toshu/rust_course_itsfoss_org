@@ -7,7 +7,7 @@ fn main() {
 
 
 // compile the programm:
-// >rustc main.rs
+// >rustc --out-dir ./out main.rs
 //
 // run the programm:
-// >./main
+// >./out/main
